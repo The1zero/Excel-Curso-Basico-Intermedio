@@ -1,2 +1,2 @@
-# Excel-Curso-B-sico-Intermedio
+# Excel-Curso-Basico-Intermedio
 Trabajos Reto del Curso para el Análisis de Datos
